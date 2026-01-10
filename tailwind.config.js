@@ -14,8 +14,8 @@ export default {
         light: "#e0e0e0",
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        mono: ['JetBrains Mono', 'monospace'],
+        sans: ['system-ui', 'sans-serif'],
+        mono: ['monospace'],
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',
